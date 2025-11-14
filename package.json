@@ -1,0 +1,11 @@
+{
+  "name": "ics-generator",
+  "type": "module",
+  "dependencies": {
+    "ics": "2.41.0",
+    "tesseract.js": "4.0.2",
+    "xlsx": "0.18.5",
+    "node-fetch": "3.3.1",
+    "cheerio": "1.0.0-rc.12"
+  }
+}
